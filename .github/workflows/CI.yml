@@ -28,5 +28,5 @@ jobs:
             - name: Upload artifact
               uses: actions/upload-artifact@v6
               with:
-                  name: UniversalNoRecoil
-                  path: UniversalNoRecoil
+                  name: UniversalNoRecoill
+                  path: UniversalNoRecoill
